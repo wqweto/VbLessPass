@@ -5,3 +5,5 @@
 *.bak
 *.log
 *.scc
+*.exe
+*.dll
